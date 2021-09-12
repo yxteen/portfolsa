@@ -1,0 +1,69 @@
+body {
+    background-color: antiquewhite;
+    color: burlywood;
+    margin: 0;
+}
+
+h1{
+    font-size: 12em;
+    margin:0 0.1em 0 0;
+}
+
+h2{
+    font-size: 5em;
+    padding-top: 12%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.navmainbar {
+    text-align: center;
+    font-size: 1.2em;
+    padding: 40px;
+    margin-bottom: 10%;
+}
+
+a {
+    padding: 20%;
+    margin: 10%;
+    text-decoration: none;
+    color: burlywood;
+}
+
+a:hover{
+    color: darkkhaki;
+}
+
+#footer {
+    width: 100%;
+    background-color: antiquewhite;
+    color: burlywood;
+    padding: 10px;
+    text-align: center;
+}
+
+article{
+    text-align: right;
+    margin: 0;
+    display: block;
+    width: 100%;
+    height: 100vh;
+}
+
+p{
+    width: 50%;
+    font-size: 1.1em;
+    float: right;
+    margin-right: 30px;
+}
+
+iframe{
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+}
